@@ -1,3 +1,26 @@
+## backward_ros (noetic) - 0.1.7-1
+
+The packages in the `backward_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release backward_ros --track noetic --rosdistro noetic --new-track` on `Mon, 09 Nov 2020 10:00:34 -0000`
+
+The `backward_ros` package was released.
+
+Version of package(s) in repository `backward_ros`:
+
+- upstream repository: git@github.com:pal-robotics/backward_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## backward_ros (melodic) - 0.1.7-0
 
 The packages in the `backward_ros` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release backward_ros --track melodic --rosdistro melodic --new-track` on `Fri, 11 Jan 2019 14:53:56 -0000`

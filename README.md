@@ -1,3 +1,26 @@
+## backward_ros (foxy) - 1.0.0-1
+
+The packages in the `backward_ros` repository were released into the `foxy` distro by running `/home/victor/.local/bin/bloom-release --rosdistro foxy --track foxy backward_ros --edit` on `Tue, 13 Jul 2021 10:36:30 -0000`
+
+The `backward_ros` package was released.
+
+Version of package(s) in repository `backward_ros`:
+
+- upstream repository: git@github.com:pal-robotics/backward_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## backward_ros (noetic) - 0.1.7-1
 
 The packages in the `backward_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release backward_ros --track noetic --rosdistro noetic --new-track` on `Mon, 09 Nov 2020 10:00:34 -0000`

@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:pal-gbp/backward_ros-release.git
 tracks:
   foxy:
     actions:
